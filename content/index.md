@@ -10,6 +10,9 @@ You can also search for a specific note, use the explorer on the left side, and 
 [[Formulas]] (hehe don't mind this. it was a screenshot dump to be edited into separate physics page)
 [[Physics]] (the said physics page work in progress)
 
+[[Mental Math]]
+
+
 # MED
 ## Pharmacology
 [[PCOL MAIN PAGE.canvas]]
