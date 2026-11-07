@@ -1,3 +1,5 @@
+PDF of Practice Tests: [[2-NMAT_Bridging Lecture Handout.pdf]]
+
 # Divide by 5
 Multiply non-zero numbers by 2
 - If no zero add decimal point
@@ -25,5 +27,27 @@ Aka rounding off to easier numbers, and adding/subtracting the missing/excess
 ![[Pasted image 20261107175156.png]]
 ![[Pasted image 20261107175428.png]]
 ![[Pasted image 20261107180412.png]]![[Pasted image 20261107180649.png]]
-# Computations in Chemistry
+# Must Know Fractions
 ![[Pasted image 20261107185839.png]]
+![[Pasted image 20261107190224.png]]
+![[Pasted image 20261107190313.png]]
+![[Pasted image 20261107190817.png]]
+![[Pasted image 20261107190837.png]]
+![[Pasted image 20261107191512.png]]
+# ESTIMATE not Calculate
+![[Pasted image 20261107192736.png]]
+Either raise both numerator & denominator or round down both numerator and denominator in choices
+![[Pasted image 20261107193141.png]]
+![[Pasted image 20261107193831.png]]
+![[Pasted image 20261107194004.png]]
+![[Pasted image 20261107194331.png]]
+
+Denominator = or greater than 6 = 0
+![[Pasted image 20261107194418.png]]
+![[Pasted image 20261107194528.png]]
+![[Pasted image 20261107194826.png]]
+![[Pasted image 20261107194943.png]]
+![[Pasted image 20261107195219.png]]
+![[Pasted image 20261107195248.png]]
+![[Pasted image 20261107195600.png]]
+
