@@ -18,3 +18,12 @@ Aka rounding off to easier numbers, and adding/subtracting the missing/excess
 ![[Pasted image 20261103192640.png]]
 ![[Pasted image 20261103192649.png]]
 ![[Pasted image 20261103192655.png]]
+![[Pasted image 20261107163759.png]]![[Pasted image 20261107173835.png]]
+![[Pasted image 20261107174539.png]]
+![[Pasted image 20261107174849.png]]
+![[Pasted image 20261107175120.png]]
+![[Pasted image 20261107175156.png]]
+![[Pasted image 20261107175428.png]]
+![[Pasted image 20261107180412.png]]![[Pasted image 20261107180649.png]]
+# Computations in Chemistry
+![[Pasted image 20261107185839.png]]
