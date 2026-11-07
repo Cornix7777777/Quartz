@@ -1,3 +1,7 @@
+---
+cssclasses:
+  - full-width-media
+---
 PDF of Practice Tests: [[2-NMAT_Bridging Lecture Handout.pdf]]
 
 # Divide by 5
